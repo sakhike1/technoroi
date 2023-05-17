@@ -31,28 +31,28 @@
                                     <div>
                                         <div class="relative hover:scale-56  flex items-center justify-center mx-auto">
                                             <img class="hover:scale-125 " width="200" height="200" viewBox="0 0 72 75"
-                                                fill="currentColor" src="~/assets/Frame 1 (1).png" />
+                                                fill="currentColor" src="~/assets/Frame.png" />
                                         </div>
                                     </div>
 
                                     <div>
                                         <div class="relative hover:scale-56  flex items-center justify-center mx-auto">
                                             <img class="hover:scale-125 " width="200" height="200" viewBox="0 0 72 75"
-                                                fill="currentColor" src="~/assets/Frame 1 (2).png" />
+                                                fill="currentColor" src="~/assets/Frames.png" />
                                         </div>
                                     </div>
 
                                     <div>
                                         <div class="relative hover:scale-56  flex items-center justify-center mx-auto">
                                             <img class="hover:scale-125" width="200" height="200" viewBox="0 0 72 75"
-                                                fill="currentColor" src="~/assets/Frame 1 (3).png" />
+                                                fill="currentColor" src="~/assets/Framess.png" />
                                         </div>
                                     </div>
 
                                     <div>
                                         <div class="relative hover:scale-56  flex items-center justify-center mx-auto">
                                             <img class="hover:scale-125" width="200" height="200" viewBox="0 0 72 75"
-                                                fill="currentColor" src="~/assets/Frame 1 (4).png" />
+                                                fill="currentColor" src="~/assets/Framesss.png" />
                                         </div>
                                     </div>
                                 </div>
