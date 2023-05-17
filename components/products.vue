@@ -24,8 +24,7 @@
                                     <div>
                                         <div class="relative hover:scale-56  flex items-center justify-center mx-auto">
                                             <img class="hover:scale-125 " width="200" height="200" viewBox="0 0 72 75"
-                                                fill="currentColor"
-                                                src="~/assets/240_F_254786117_g9yy1gZfAyc8kwFAKPMfJREtQFzHUeu1 1.png" />
+                                                fill="currentColor" src="~/assets/valve.png" />
                                         </div>
                                     </div>
 
