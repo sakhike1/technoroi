@@ -10,7 +10,7 @@
                                 <div
                                     class="w-full rounded-md md:w-11/12 xl:w-10/14 bg-gradient-to-r from-slate-300 to-neutral-100 md:py-8 md:px-8 px-5 py-4 xl:px-12 xl:py-16">
                                     <div>
-                                        <div class="flex flex-wrap m-5 items-center md:flex-row flex-col-reverse">
+                                        <div class="flex flex-wrap m-20 items-center md:flex-row flex-col-reverse">
                                             <div
                                                 class="md:w-2/4 w-full pb-6 md:pb-0 md:pr-6 flex-col md:block flex items-center justify-center md:pt-0 pt-4">
                                                 <div>
@@ -38,7 +38,7 @@
                                                 </router-link>
                                             </div>
                                             <div class="md:w-1/3 w-2/3">
-                                                <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/CTA.png"
+                                                <img src="~/assets/istockphoto-1203142294-612x612.jpg"
                                                     alt="cartoon avatars" />
                                             </div>
                                         </div>

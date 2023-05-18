@@ -13,7 +13,7 @@
                             <div>
 
                                 <h1 class="mt-4 text-3xl font-bold text-gray-300 lg:mt-8 sm:text-4xl xl:text-3xl">
-                                    With a wide range of products from Greece and abroad we offer inetergrated
+                                    With a wide range of products from Greece and abroad we offer integrated
                                     solutions for
                                     businesses
                                 </h1>
